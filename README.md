@@ -38,11 +38,6 @@ python3 manage.py runserver
 
 # Create a super user
 python3 manage.py createsuperuser
-Contributing
-Contributions are welcome! Please read the contributing guidelines first.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any inquiries, please contact Love Khandelwal.
